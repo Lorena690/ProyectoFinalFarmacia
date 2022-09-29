@@ -1,0 +1,30 @@
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.exe
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.deps.json
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.runtimeconfig.json
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.dll
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.pdb
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.csproj.AssemblyReference.cache
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.AssemblyInfoInputs.cache
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.AssemblyInfo.cs
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.csproj.CoreCompileInputs.cache
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.dll
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\refint\Proyecto Farmacia.dll
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.pdb
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.genruntimeconfig.cache
+D:\UNAD LORENA\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\ref\Proyecto Farmacia.dll
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.exe
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.deps.json
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.runtimeconfig.json
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.dll
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\bin\Debug\net6.0\Proyecto Farmacia.pdb
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.csproj.AssemblyReference.cache
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.AssemblyInfoInputs.cache
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.AssemblyInfo.cs
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.csproj.CoreCompileInputs.cache
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.dll
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\refint\Proyecto Farmacia.dll
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.pdb
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\Proyecto Farmacia.genruntimeconfig.cache
+D:\UNAD LORENA\SEMESTRE 2 - 3 -  4\Programación\Proyecto Farmacia\Proyecto Farmacia\obj\Debug\net6.0\ref\Proyecto Farmacia.dll
